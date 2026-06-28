@@ -1,9 +1,8 @@
 
 
 
-<video src="ngantuk.mp4" autoplay loop muted width="400"></video>
-
-
+ffmpeg -i ngantuk.mp4 -vf "fps=10,scale=460:-1" avatar.gif
+![Avatar](avatar.gif)
 
 
 <div align="center">
