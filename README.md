@@ -1,7 +1,7 @@
 
 
 
-ffmpeg -i ngantuk.mp4 -vf "fps=10,scale=460:-1" avatar.gif
+
 ![Avatar](avatar.gif)
 
 
