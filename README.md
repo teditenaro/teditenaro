@@ -2,7 +2,9 @@
 
 
 
-![Avatar](avatar.gif)
+<div align="center">
+  <img src="avatar.gif" width="200"/>
+</div>
 
 
 <div align="center">
