@@ -130,12 +130,12 @@ reading   : Books Enthusiast
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tedzrnt&include_all_commits=true&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tedzrnt&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" height="180em"/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=teditenaro&include_all_commits=true&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teditenaro&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" height="180em"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tedzrnt&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" height="180em"/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=teditenaro&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" height="180em"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tedzrnt&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" height="180em"/>
 </div>
 
@@ -153,7 +153,7 @@ reading   : Books Enthusiast
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tedzrnt&color=blueviolet&style=flat&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=teditenaro&color=blueviolet&style=flat&label=Profile+Views"/>
 </div>
 
 <div align="center">
