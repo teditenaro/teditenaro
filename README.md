@@ -136,7 +136,7 @@ reading   : Books Enthusiast
 
 <div align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=teditenaro&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" height="180em"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tedzrnt&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" height="180em"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=teditenaro&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" height="180em"/>
 </div>
 
 <div align="center">
