@@ -39,9 +39,7 @@
 <h2 align="center">👾 About Me</h2>
 
 ```yaml
-focus     : Cybersecurity & Web Development
-learning  : Ethical Hacking - Penetration Testing - Web Security
-reading   : Books Enthusiast
+I'm passionate about technology, especially web development and cybersecurity, I enjoy learning new skills.
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
